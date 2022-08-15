@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "educate",
+    "name": "Exams++",
     "slug": "educate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/exams-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/exams++.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#9932cc"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.examsplusplus.examsapp",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/exams-icon.png",
+        "backgroundColor": "#9932cc"
       }
     },
     "web": {
